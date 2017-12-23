@@ -4,4 +4,4 @@ Proposta de website para o serviço de DNS brasileiro GigaDNS.
 
 Preview: http://dev.belenos.me/gigadns/
 
-Versão 0.7
+Versão 0.8
